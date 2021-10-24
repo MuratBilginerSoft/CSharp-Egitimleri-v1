@@ -1,0 +1,7 @@
+c:\users\mrt_b\source\repos\Project 12 While Döngüsü\Project 12 While Döngüsü\bin\Debug\Project 12 While Döngüsü.exe.config
+c:\users\mrt_b\source\repos\Project 12 While Döngüsü\Project 12 While Döngüsü\bin\Debug\Project 12 While Döngüsü.exe
+c:\users\mrt_b\source\repos\Project 12 While Döngüsü\Project 12 While Döngüsü\bin\Debug\Project 12 While Döngüsü.pdb
+c:\users\mrt_b\source\repos\Project 12 While Döngüsü\Project 12 While Döngüsü\obj\Debug\Project 12 While Döngüsü.csprojAssemblyReference.cache
+c:\users\mrt_b\source\repos\Project 12 While Döngüsü\Project 12 While Döngüsü\obj\Debug\Project 12 While Döngüsü.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Project 12 While Döngüsü\Project 12 While Döngüsü\obj\Debug\Project 12 While Döngüsü.exe
+c:\users\mrt_b\source\repos\Project 12 While Döngüsü\Project 12 While Döngüsü\obj\Debug\Project 12 While Döngüsü.pdb

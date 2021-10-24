@@ -1,0 +1,6 @@
+C:\Users\mrt_b\source\repos\Project 10 Faktoriyel App\Project 10 Faktoriyel App\bin\Debug\Project 10 Faktoriyel App.exe.config
+C:\Users\mrt_b\source\repos\Project 10 Faktoriyel App\Project 10 Faktoriyel App\bin\Debug\Project 10 Faktoriyel App.exe
+C:\Users\mrt_b\source\repos\Project 10 Faktoriyel App\Project 10 Faktoriyel App\bin\Debug\Project 10 Faktoriyel App.pdb
+C:\Users\mrt_b\source\repos\Project 10 Faktoriyel App\Project 10 Faktoriyel App\obj\Debug\Project 10 Faktoriyel App.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 10 Faktoriyel App\Project 10 Faktoriyel App\obj\Debug\Project 10 Faktoriyel App.exe
+C:\Users\mrt_b\source\repos\Project 10 Faktoriyel App\Project 10 Faktoriyel App\obj\Debug\Project 10 Faktoriyel App.pdb

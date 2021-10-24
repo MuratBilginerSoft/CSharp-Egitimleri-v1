@@ -1,0 +1,6 @@
+C:\Users\mrt_b\source\repos\Project 9 For 2\Project 9 For 2\bin\Debug\Project 9 For 2.exe.config
+C:\Users\mrt_b\source\repos\Project 9 For 2\Project 9 For 2\bin\Debug\Project 9 For 2.exe
+C:\Users\mrt_b\source\repos\Project 9 For 2\Project 9 For 2\bin\Debug\Project 9 For 2.pdb
+C:\Users\mrt_b\source\repos\Project 9 For 2\Project 9 For 2\obj\Debug\Project 9 For 2.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 9 For 2\Project 9 For 2\obj\Debug\Project 9 For 2.exe
+C:\Users\mrt_b\source\repos\Project 9 For 2\Project 9 For 2\obj\Debug\Project 9 For 2.pdb

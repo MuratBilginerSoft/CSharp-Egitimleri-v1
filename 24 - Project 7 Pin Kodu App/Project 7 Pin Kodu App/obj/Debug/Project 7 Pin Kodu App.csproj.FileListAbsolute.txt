@@ -1,0 +1,6 @@
+C:\Users\mrt_b\source\repos\Project 7 Pin Kodu App\Project 7 Pin Kodu App\bin\Debug\Project 7 Pin Kodu App.exe.config
+C:\Users\mrt_b\source\repos\Project 7 Pin Kodu App\Project 7 Pin Kodu App\bin\Debug\Project 7 Pin Kodu App.exe
+C:\Users\mrt_b\source\repos\Project 7 Pin Kodu App\Project 7 Pin Kodu App\bin\Debug\Project 7 Pin Kodu App.pdb
+C:\Users\mrt_b\source\repos\Project 7 Pin Kodu App\Project 7 Pin Kodu App\obj\Debug\Project 7 Pin Kodu App.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 7 Pin Kodu App\Project 7 Pin Kodu App\obj\Debug\Project 7 Pin Kodu App.exe
+C:\Users\mrt_b\source\repos\Project 7 Pin Kodu App\Project 7 Pin Kodu App\obj\Debug\Project 7 Pin Kodu App.pdb

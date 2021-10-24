@@ -1,0 +1,6 @@
+c:\users\mrt_b\source\repos\Project 15 Do While Döngüsü\Project 15 Do While Döngüsü\bin\Debug\Project 15 Do While Döngüsü.exe.config
+c:\users\mrt_b\source\repos\Project 15 Do While Döngüsü\Project 15 Do While Döngüsü\bin\Debug\Project 15 Do While Döngüsü.exe
+c:\users\mrt_b\source\repos\Project 15 Do While Döngüsü\Project 15 Do While Döngüsü\bin\Debug\Project 15 Do While Döngüsü.pdb
+c:\users\mrt_b\source\repos\Project 15 Do While Döngüsü\Project 15 Do While Döngüsü\obj\Debug\Project 15 Do While Döngüsü.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Project 15 Do While Döngüsü\Project 15 Do While Döngüsü\obj\Debug\Project 15 Do While Döngüsü.exe
+c:\users\mrt_b\source\repos\Project 15 Do While Döngüsü\Project 15 Do While Döngüsü\obj\Debug\Project 15 Do While Döngüsü.pdb

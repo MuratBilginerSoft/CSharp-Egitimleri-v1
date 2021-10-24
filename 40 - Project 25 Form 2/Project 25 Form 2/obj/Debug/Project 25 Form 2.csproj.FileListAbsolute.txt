@@ -1,0 +1,10 @@
+C:\Users\mrt_b\source\repos\Project 25 Form 2\Project 25 Form 2\bin\Debug\Project 25 Form 2.exe.config
+C:\Users\mrt_b\source\repos\Project 25 Form 2\Project 25 Form 2\bin\Debug\Project 25 Form 2.exe
+C:\Users\mrt_b\source\repos\Project 25 Form 2\Project 25 Form 2\bin\Debug\Project 25 Form 2.pdb
+C:\Users\mrt_b\source\repos\Project 25 Form 2\Project 25 Form 2\obj\Debug\Project 25 Form 2.csprojAssemblyReference.cache
+C:\Users\mrt_b\source\repos\Project 25 Form 2\Project 25 Form 2\obj\Debug\Project_25_Form_2.Form1.resources
+C:\Users\mrt_b\source\repos\Project 25 Form 2\Project 25 Form 2\obj\Debug\Project_25_Form_2.Properties.Resources.resources
+C:\Users\mrt_b\source\repos\Project 25 Form 2\Project 25 Form 2\obj\Debug\Project 25 Form 2.csproj.GenerateResource.cache
+C:\Users\mrt_b\source\repos\Project 25 Form 2\Project 25 Form 2\obj\Debug\Project 25 Form 2.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 25 Form 2\Project 25 Form 2\obj\Debug\Project 25 Form 2.exe
+C:\Users\mrt_b\source\repos\Project 25 Form 2\Project 25 Form 2\obj\Debug\Project 25 Form 2.pdb

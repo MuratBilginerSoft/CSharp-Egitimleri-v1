@@ -1,0 +1,6 @@
+c:\users\mrt_b\source\repos\Project 17 SC Ayları Söyle\Project 17 SC Ayları Söyle\bin\Debug\Project 17 SC Ayları Söyle.exe.config
+c:\users\mrt_b\source\repos\Project 17 SC Ayları Söyle\Project 17 SC Ayları Söyle\bin\Debug\Project 17 SC Ayları Söyle.exe
+c:\users\mrt_b\source\repos\Project 17 SC Ayları Söyle\Project 17 SC Ayları Söyle\bin\Debug\Project 17 SC Ayları Söyle.pdb
+c:\users\mrt_b\source\repos\Project 17 SC Ayları Söyle\Project 17 SC Ayları Söyle\obj\Debug\Project 17 SC Ayları Söyle.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Project 17 SC Ayları Söyle\Project 17 SC Ayları Söyle\obj\Debug\Project 17 SC Ayları Söyle.exe
+c:\users\mrt_b\source\repos\Project 17 SC Ayları Söyle\Project 17 SC Ayları Söyle\obj\Debug\Project 17 SC Ayları Söyle.pdb

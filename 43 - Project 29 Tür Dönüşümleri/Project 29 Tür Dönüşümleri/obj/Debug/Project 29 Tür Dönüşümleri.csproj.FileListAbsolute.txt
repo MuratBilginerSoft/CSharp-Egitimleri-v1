@@ -1,0 +1,7 @@
+C:\Users\mrt_b\source\repos\Project 29 Tür Dönüşümleri\Project 29 Tür Dönüşümleri\bin\Debug\Project 29 Tür Dönüşümleri.exe.config
+C:\Users\mrt_b\source\repos\Project 29 Tür Dönüşümleri\Project 29 Tür Dönüşümleri\bin\Debug\Project 29 Tür Dönüşümleri.exe
+C:\Users\mrt_b\source\repos\Project 29 Tür Dönüşümleri\Project 29 Tür Dönüşümleri\bin\Debug\Project 29 Tür Dönüşümleri.pdb
+C:\Users\mrt_b\source\repos\Project 29 Tür Dönüşümleri\Project 29 Tür Dönüşümleri\obj\Debug\Project 29 Tür Dönüşümleri.csprojAssemblyReference.cache
+C:\Users\mrt_b\source\repos\Project 29 Tür Dönüşümleri\Project 29 Tür Dönüşümleri\obj\Debug\Project 29 Tür Dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 29 Tür Dönüşümleri\Project 29 Tür Dönüşümleri\obj\Debug\Project 29 Tür Dönüşümleri.exe
+C:\Users\mrt_b\source\repos\Project 29 Tür Dönüşümleri\Project 29 Tür Dönüşümleri\obj\Debug\Project 29 Tür Dönüşümleri.pdb
